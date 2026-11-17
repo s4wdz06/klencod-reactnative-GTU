@@ -1,0 +1,6 @@
+{
+  "name": "GTU - المنصة الوطنية لخريجي التقنيات الحضرية",
+  "description": "المنصة الوطنية لخريجي التقنيات الحضرية في الجزائر — فضاء رقمي مؤسساتي يجمع الخريجين عبر 58 ولاية للتواصل، التوثيق، المبادرات، والفعاليات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
