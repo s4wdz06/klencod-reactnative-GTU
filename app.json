@@ -1,0 +1,5 @@
+{
+  "name": "GTU",
+  "displayName": "GTU",
+  "android": {"packageName": "com.gtu.app"}
+}

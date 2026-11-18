@@ -1,8 +1,9 @@
 node_modules/
-build/
-dist/
-coverage/
+.gradle/
+.idea/
+*.iml
+android/.cxx/
+android/app/build/
+ios/Pods/
 .DS_Store
-*.log
-.env*
-!.env.example
+.env
